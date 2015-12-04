@@ -85,3 +85,8 @@ Some of it has already been covered in the *Build it* chapter. MLE – as I hand
 ## Notes
 
 * Firefox SDK automatically sets a min and max Firefox version number. That shouldn't be a problem if everyone keeps their browser up-to-date. If you want to change it, have a look at `addon-sdk-1.17/app-extension/install.rdf`.
+
+##Forking Information
+This is forked from the original MLE for some *science*. This version is 50% more likely to make your computer combust into flames than the orignal dev build, and 1000% more likely when compared to the public builds. In other words, **use with extreme caution**.
+
+[](/scootacheer)
